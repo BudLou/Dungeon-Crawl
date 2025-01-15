@@ -1,2 +1,7 @@
 # Dungeon-Crawl
-Make a character play though a dungeon in a D&amp;D like fashion.
+Make a character play through a dungeon in a D&D-like fashion.
+[Termanology]
+[Technology]
+[How To]
+[Installation]
+[Future Updates]
